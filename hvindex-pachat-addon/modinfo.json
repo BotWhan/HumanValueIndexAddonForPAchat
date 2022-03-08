@@ -12,6 +12,9 @@
    "priority": 101,
    "icon": "",
    "category": ["chat", "global chat"],
+  "dependencies": [
+    "pachat"
+  ],
    "scenes":
   {
     "uberbar":
