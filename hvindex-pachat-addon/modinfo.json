@@ -1,0 +1,24 @@
+ {
+   "context": "client",
+   "identifier": "hvindex-pachat-addon",
+   "display_name": "PA Chat Addon",
+   "description": "Addon for paChat",
+   "author": "Bot.",
+   "version": "1.0",
+   "build": "115678",
+   "date": "2022-01-30",
+   "signature": "",
+   "forum": "",
+   "priority": 101,
+   "icon": "",
+   "category": ["chat", "global chat"],
+   "scenes":
+  {
+    "uberbar":
+    [
+      "coui://ui/mods/hvindex-pachat-addon/chatbox.js",
+	  "coui://ui/mods/hvindex-pachat-addon/inputbox_chatbox.css",
+	  "coui://ui/mods/hvindex-pachat-addon/inputbox_chatbox.js"
+    ]
+  }
+ }
