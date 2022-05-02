@@ -2,7 +2,7 @@
   "context": "client",
   "identifier": "hvindex-pachat-addon",
   "display_name": "PA Chat Addon",
-  "description": "Addon for paChat",
+  "description": "Shows the real names of players in Rivers PaChat along with a player rating",
   "author": "Bot.",
   "version": "1.0",
   "build": "115678",
